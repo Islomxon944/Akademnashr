@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border-top: 5px solid orange;
+}
+.logo-img.img{
+    padding-left: 150px;
+}
+.navbar{
+ display: flex;
+}
+.nav.ul.a{  
+    text-decoration: none;
+}
